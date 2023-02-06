@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# generated for any operations where npm modifies either the node_modules tree, or package.json
+package-lock.json
