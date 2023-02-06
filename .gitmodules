@@ -1,0 +1,3 @@
+[submodule "src/lib/libmarket"]
+	path = src/lib/libmarket
+	url = git@github.com:Codeman-from-unknown-city/libmarket.git
